@@ -2599,7 +2599,7 @@
       "displayName": "Ministop",
       "id": "ministop-d6ae81",
       "locationSet": {
-        "include": ["cn", "kz", "ph", "vn"]
+        "include": ["cn", "kz", "vn"]
       },
       "tags": {
         "brand": "Ministop",
@@ -4102,6 +4102,16 @@
         "brand": "Ultramar",
         "brand:wikidata": "Q3548078",
         "name": "Ultramar",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Uncle John's",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "brand": "Uncle John's",
+        "brand:wikidata": "Q115917776",
+        "name": "Uncle John's",
         "shop": "convenience"
       }
     },
